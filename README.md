@@ -55,8 +55,6 @@ The goal is to understand order patterns, delivery performance, and customer beh
 
 ## 🧭 Dashboard Preview
 
-*(Insert screenshot below — rename the image file to match your actual filename)*  
-
 ![Dashboard Preview](https://github.com/Kolawoleolajide/Foodpanda-Data-Analysis-Dashboard/blob/main/Foodpanda1.png)
 
 ---
@@ -65,9 +63,13 @@ The goal is to understand order patterns, delivery performance, and customer beh
 
 | File                                   | Description                                      |
 | -------------------------------------- | ------------------------------------------------ |
-| `Foodpanda_Analysis_Presentation.pptx` | PowerPoint presentation summarizing key insights |
-| `foodpanda_dashboard.pbix`             | Power BI dashboard file                          |
-| `foodpanda_dataset.csv`                | Dataset used for analysis                        |
+| `Foodpanda background.png`             | Dashboard Background Design                      |
+| `foodpanda_dashboard.pbix`             | Power BI Dashboard File                          |
+| `foodpandacleaned Dataset.xlsx`        | Excele Cleaned Dataset File                      |
+| `fooodpanda1.png`                      | Dashboard screenshot                             |
+| `fooodpanda2.png`                      | Dashboard screenshot                             |
+| `fooodpanda3.png`                      | Dashboard screenshot                             |
+| `Github_banner`                        | Repo Github Banner                               |
 
 ---
 
