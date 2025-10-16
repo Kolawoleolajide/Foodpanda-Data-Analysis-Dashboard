@@ -1,4 +1,4 @@
-![Foodpanda Data Analysis Dashboard](Images/github_banner.png)
+![Foodpanda Data Analysis Dashboard]([Images/github_banner.png](https://github.com/Kolawoleolajide/Foodpanda-Data-Analysis-Dashboard/blob/main/Github_Banner1.png)
 
 # 🍽️ Foodpanda Data Analysis Dashboard
 
@@ -57,7 +57,7 @@ The goal is to understand order patterns, delivery performance, and customer beh
 
 *(Insert screenshot below — rename the image file to match your actual filename)*  
 
-![Dashboard Preview](Images/dashboard_screenshot.png)
+![Dashboard Preview]([Images/dashboard_screenshot.png](https://github.com/Kolawoleolajide/Foodpanda-Data-Analysis-Dashboard/blob/main/Foodpanda1.png)
 
 ---
 
