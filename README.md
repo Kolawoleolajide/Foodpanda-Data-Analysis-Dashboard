@@ -1,4 +1,4 @@
-![Foodpanda Data Analysis Dashboard]([Images/github_banner.png])
+![Foodpanda Data Analysis Dashboard](Github_Banner1.png)
 
 # 🍽️ Foodpanda Data Analysis Dashboard
 
