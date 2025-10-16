@@ -52,6 +52,18 @@ The goal is to understand order patterns, delivery performance, and customer beh
 5. **High churn rate among low-frequency customers**, indicating the need for stronger retention strategies.  
 
 ---
+## Reconmmendation
+💡 Strategic Actions
+- Enhance Delivery Logistics: Improve dispatch routes and reduce late orders.
+- Loyalty Optimization: Offer extra points to frequent customers to reduce churn.
+- Promote Underrated Categories: Boost low-selling but high-rated items (e.g., Desserts).
+- Target High-Value Segments: Focus marketing on 25–34 age group and top-spending cities.
+- Monitor KPIs Continuously: Automate tracking in Power BI for monthly business review.
+- Final Insight: Data-driven improvements can enhance customer satisfaction, loyalty, and Foodpanda’s overall growth.
+---
+
+
+
 
 ## 🧭 Dashboard Preview
 
@@ -73,16 +85,17 @@ The goal is to understand order patterns, delivery performance, and customer beh
 
 ---
 
-## 🧾 Conclusion
-
-The analysis revealed that **delivery delays significantly dominate** (65.67%), impacting overall performance. However, customer ratings show that **factors beyond timing**, such as **food quality or service**, influence satisfaction.  
-These findings provide direction for improving logistics and enhancing the customer experience.
-
----
-
 ## 🙌 Author
 
 **Kolawole Olajide**  
 💼 *Data Analyst | Excel | Power BI | Storytelling with Data*  
 🔗 [LinkedIn](www.linkedin.com/in/kolawole-olajide)  
+---
+
+## ⭐ Acknowledgments
+Thanks to Josh and the management team for providing the dataset and guidance during analysis.  
+If you find this project helpful, consider giving it a ⭐ on GitHub!
+
+
+
 
